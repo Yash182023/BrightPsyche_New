@@ -23,7 +23,7 @@ BrightPsych is designed to create a compassionate online space where individuals
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/BrightPsyche_New.git
+   git clone https://github.com/Yash182023/BrightPsyche_New.git
 
 2. Create .env file to store the
    ```bash
