@@ -25,11 +25,16 @@ BrightPsych is designed to create a compassionate online space where individuals
    ```bash
    git clone https://github.com/yourusername/BrightPsyche_New.git
 
-2. Install dependencies
+2. Create .env file to store the
+   ```bash
+   OPENAI_API_KEY=""
+   HUGGINGFACEHUB_TOKEN=""
+
+3. Install dependencies
    ```bash
    pip install -r requirements.txt
 
-3. Run the app
+4. Run the app
    ```bash
    streamlit run app.py
 
