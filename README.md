@@ -23,13 +23,15 @@ BrightPsych is designed to create a compassionate online space where individuals
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/BrightPsych.git
+   git clone https://github.com/yourusername/BrightPsyche_New.git
 
 2. Install dependencies
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. Run the app
-streamlit run app.py
+   ```bash
+   streamlit run app.py
 
 
 Access the app in your web browser at http://localhost:8501.
