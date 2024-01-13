@@ -66,9 +66,9 @@ def main():
     if st.button("Play Audio"):
         # Load audio file based on the selected voice
         if selected_voice == "Male Voice":
-            audio_path = "C:/Users/sharm/Downloads/ask-multiple-pdfs-main/ask-multiple-pdfs-main/meditation_steps_male.wav"
+            audio_path = "meditation_steps_male.wav"
         else:
-            audio_path = "C:/Users/sharm/Downloads/ask-multiple-pdfs-main/ask-multiple-pdfs-main/meditation_steps_female.wav"
+            audio_path = "meditation_steps_female.wav"
 
         audio = AudioSegment.from_wav(audio_path)
 
@@ -81,17 +81,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# from streamlit.components.v1 import html
-
-# Define your javascript
-# my_js = """
-# alert("Please don't forget to enter you daily details!!!");
-# """
-
-# # Wrapt the javascript as html code
-# my_html = f"<script>{my_js}</script>"
-
-# # Execute your app
-
-# html(my_html)

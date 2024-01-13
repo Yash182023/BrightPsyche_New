@@ -21,10 +21,9 @@ custom_styles = """
 </style>
 """
 
-# Render custom styles
 st.markdown(custom_styles, unsafe_allow_html=True)
 
-# Content
+
 st.markdown("# About Us :seedling:")
 
 st.markdown(
@@ -63,9 +62,6 @@ st.markdown("""
 We prioritize the privacy and security of our users. BrightPsych has implemented measures to protect user data, ensuring a safe and confidential environment for individuals to explore mental health resources and engage with the platform.
 """)
 
-# Add more sections based on the suggested content outline
-
-# Closing Statement
 st.markdown(
     """
     Thank you for being a part of the BrightPsych community. We invite you to explore our platform, connect with others, and discover the resources that can support you on your mental health journey. If you have any questions or feedback, feel free to reach out to us at [info@brightpsych.com](mailto:info@brightpsych.com
