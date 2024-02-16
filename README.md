@@ -17,6 +17,9 @@ BrightPsych is designed to create a compassionate online space where individuals
 - **Data Analysis:** Dive into the analysis of a dataset focused on student mental health. Discover trends, correlations, and insights to promote a supportive environment.
 
 - **Mindfulness Session:** Join our mindfulness session for guided meditation and relaxation.
+  
+- **Community Forum:** Engage in reciprocal knowledge exchange, offer guidance, and acknowledge progress through supportive feedback mechanisms.
+
 
 ## Getting Started
 
